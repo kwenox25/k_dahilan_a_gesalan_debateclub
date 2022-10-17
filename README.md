@@ -1,2 +1,20 @@
-# k_dahilan_a_gesalan_debateclub
-k_dahilan_a_gesalan Midterm Debate Club
+# Midterm Debate Club
+
+Cats or Dogs?
+
+# Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+# Credits
+
+Kwency Maye Dahilan
+Apple Grace Gesalan
+
+# License
+
+MIT License
