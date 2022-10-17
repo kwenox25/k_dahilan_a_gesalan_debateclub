@@ -15,3 +15,8 @@
     display: table;
     clear: both;
   }
+
+  #middle
+  {
+  text-align: center;
+  }
