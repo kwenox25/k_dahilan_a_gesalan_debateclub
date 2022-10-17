@@ -1,0 +1,17 @@
+.columnleft {
+    float: left;
+    width: 50%;
+    background-color: #aaa;
+  }
+
+  .columnright {
+    float: right;
+    width: 50%;
+    background-color: #bbb;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
